@@ -1,5 +1,6 @@
 # PhonePe Revenue Growth Strategy Analysis
-![Img](Img.png)
+![image](https://github.com/user-attachments/assets/3162f871-f28f-432d-b29d-0c57bbce53d1)
+
 
 ## Project Overview
 This project aims to analyze PhonePe's current operational status, identify potential strategies to increase profit by at least 25%, and provide a detailed report summarizing findings and proposals. The analysis focuses on the digital payments industry in India and the factors contributing to PhonePe's success.
